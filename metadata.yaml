@@ -1,0 +1,34 @@
+_repo: The-Mystery-of-Mary_14632
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: '"Tryon Dunham rescues a young woman from an unknown danger at a railroad
+  station.  She is obviously cultured and wears expensive clothes but she is missing
+  her hat and coat.  Dunham helps her flee to Chicago but soon finds himself not only
+  caught up in solving the mystery of Mary but also falling in love with her, whoever
+  she is."--P. [4] of cover.'
+gutenberg_issued: '2005-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14632'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcc 'PS'
+title: The Mystery of Mary
+url: http://www.gutenberg.org/ebooks/14632
